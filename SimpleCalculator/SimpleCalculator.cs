@@ -4,6 +4,9 @@
  * Week 4 Murach Coding Assignmnet (Teamwork--Done Individually)
  * Extra 6-1 Create a simple calculator */
 
+ /*Wendy Faulk added to GitHub desktop from GitHub
+ * then opened here in VSC from GitHub desktop */
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
